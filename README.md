@@ -1,5 +1,4 @@
 # hello-world
 test repositry
 
-Degital Marketing Consultant\\
-Working in Japan
+Degital Marketing Consultant working in Japan
